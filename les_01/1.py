@@ -1,0 +1,5 @@
+name = input('Введите имя: ')
+surname = input('Введите фамилию: ')
+age = input('Введите Ваш возраст: ')
+print('Привет,', name, surname)
+print('Возраст: ', age)
